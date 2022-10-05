@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there I'm Daniel Chiesa 👋
+
+I'm slowly building up my online presence in the coding world so be patient haha
+
+
 
 <!--
 **chiesad1/chiesad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
